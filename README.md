@@ -1,3 +1,10 @@
+
+
+Goal of project was to gather insight on 33 fitbit users. How can their recorded usage, for 31 days, help Bellabeat offer a better product/experience  
+
+Skills used: Joins, CTE's, Functions, Aggregate Functions, Adding Data Types, Boolean, Alter/Modifying Table(s) 
+
+
 - 👋 Hi, I’m @MAReyes617
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analytics
